@@ -462,7 +462,7 @@
                 ・ CPU：　IntelCore2Duo 以上
                 ・ メモリ容量：　1GB以上
                 ・ オペレーティングシステム：　Windows7/MacOSX(10.6)以上
-                ・ インターネットブラウザ（Windowsの場合）：　InternetExplorer8以上、
+                ・ インターネットブラウザ（Windowsの場合）：　InternetExplorer9以上、
                        Firefox最新版、 Chrome最新版
                 ・ インターネットブラウザ（Macの場合）：　Safari最新版
 
